@@ -1,0 +1,5 @@
+Dica de leitura
+Para esta atividade, leia os seguintes materiais:
+Gerenciamento de configuração: conceitos, softwares e ferramentas
+Versionamento de código: procedimentos, rotina de trabalho e aplicabilidade
+Comandos de versionamento: operações e funcionalidades
